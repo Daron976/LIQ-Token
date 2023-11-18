@@ -10,6 +10,7 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
+  - [API Endpoints](#api-endpoints)
 - [👥 Authors](#authors)
 
 <!-- PROJECT DESCRIPTION -->
@@ -37,16 +38,6 @@ This is a web application that displays information about the LIQ token, and ser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-<!-- ## 🚀 Live Demo <a name="live-demo"></a>
-
-[Link](https://quickmaths145.netlify.app/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -73,13 +64,17 @@ Then install the project's necessary dependencies with:
 npm install
 ```
 
-### Run
-
 Run the app with:
 
 ```
 npm run dev
 ```
+
+### API Endpoints
+
+Total Supply : `/api/v1/total_suppy`
+
+Current Circulating Suppy : `/api/v1/circulating_supply`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,47 +89,3 @@ npm run dev
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/daronkwiafe/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-<!-- ## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Implement pagination in the reservations and delete a tutor pages**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- CONTRIBUTING -->
-
-<!-- ## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- SUPPORT -->
-
-<!-- ## ⭐️ Show your support <a name="support"></a>
-
-Give this project a ⭐️ if you like it !
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- ACKNOWLEDGEMENTS -->
-
-<!-- ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-- Shout out to our previous React projects ;)
-- Let's not forget that the [design](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign) was made by [Murat Korkmaz](https://www.behance.net/muratk) :art:
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- LICENSE -->
-
-<!-- ## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.- Shout out to our previous React projects ;)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
