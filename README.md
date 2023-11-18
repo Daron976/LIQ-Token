@@ -43,7 +43,7 @@ This is a web application that displays information about the LIQ token, and ser
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://liqtoken-4043154ad038.herokuapp.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
