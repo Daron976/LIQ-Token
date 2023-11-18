@@ -6,21 +6,16 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 LIQ Token Info <a name="about-project"></a>
+
 This is a web application that displays information about the LIQ token, and serves as an api for the data as well.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -35,6 +30,7 @@ This is a web application that displays information about the LIQ token, and ser
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+
 - **Displays current circulating supply of LIQ token**
 - **Displays total supply of LIQ token**
 - **Serves as API for LIQ token data**
@@ -63,24 +59,24 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-Clone this repository to your desired folder: 
+Clone this repository to your desired folder:
 
 ```
 git clone https://github.com/Daron976/shoeshine.git
 ```
 
-
 ### Install
 
-Then install the project's necessary dependencies with: 
+Then install the project's necessary dependencies with:
 
 ```
 npm install
 ```
 
-### Run 
+### Run
 
-Run the app with: 
+Run the app with:
+
 ```
 npm run dev
 ```
@@ -134,7 +130,6 @@ Give this project a ⭐️ if you like it !
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
 
 <!-- LICENSE -->
 
