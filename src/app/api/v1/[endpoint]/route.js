@@ -12,7 +12,7 @@ export async function GET(request, { params }) {
         `https://api.bscscan.com/api?module=stats&action=tokensupply&contractaddress=${contractAddress}&apikey=SYTBNFA6AVVKBHFQPUASSDQZY8FXWY3TA5`
       );
       const data = await res.json();
-      return Response.json({ data });
+      return Response.json(data);
     case "circulating_supply":
       let holderTotal = [];
       const holderInfo = [
