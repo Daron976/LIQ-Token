@@ -35,11 +35,7 @@ export async function GET(request, { params }) {
 
       const finalResult = (convertedResult / decimalVal).toFixed(2);
 
-      return Response.json({
-        status: 1,
-        message: "ok",
-        result: parseFloat(finalResult),
-      });
+      return Response.json(parseFloat(finalResult));
 
     case "circulating_supply":
       let holderTotal = [];
@@ -59,11 +55,7 @@ export async function GET(request, { params }) {
 
       const finalCirculation = (convertedCirculation / decimalVal).toFixed(2);
 
-      return Response.json({
-        status: 1,
-        message: "ok",
-        result: parseFloat(finalCirculation),
-      });
+      return Response.json(parseFloat(finalCirculation));
 
     default:
       notFound();
